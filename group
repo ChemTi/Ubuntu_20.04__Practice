@@ -21,7 +21,7 @@ tape:x:26:
 sudo:x:27:test,user2,user_1
 audio:x:29:
 dip:x:30:test
-www-data:x:33:
+www-data:x:33:vsftpuser
 backup:x:34:
 operator:x:37:
 list:x:38:
@@ -71,3 +71,6 @@ Buh_HD_1:x:1014:Buh,HD_1
 user_1:x:1015:
 user_2:x:1016:
 user_3:x:1017:
+ssl-cert:x:117:
+ftp:x:118:
+vsftpuser:x:1003:

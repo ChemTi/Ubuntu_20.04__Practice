@@ -76,4 +76,6 @@ Buh_HD_1:!::Buh,HD_1
 user_1:$6$1pbqK/BDTQ4HS4t$ywy2ld.KoqdIWzfNP0dasAgi5hKQoEO6s6OyijIcPjcUcV3HcGO/cFtf8JfSjiqBDWZvfO1kF3kAq/N04f.fn/::
 user_2:!::
 user_3:!::
-testingAccount:!::
+ssl-cert:!::
+ftp:!::
+vsftpuser:!::

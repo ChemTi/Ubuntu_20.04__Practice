@@ -71,4 +71,6 @@ Buh_HD_1:x:1014:Buh,HD_1
 user_1:x:1015:
 user_2:x:1016:
 user_3:x:1017:
-testingAccount:x:1018:
+ssl-cert:x:117:
+ftp:x:118:
+vsftpuser:x:1003:
